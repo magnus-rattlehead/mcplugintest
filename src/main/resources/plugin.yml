@@ -1,0 +1,4 @@
+name: Test_one
+version: ${project.version}
+main: me.magnus.test_one.Test_one
+api-version: 1.17

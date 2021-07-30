@@ -1,1 +1,1 @@
-# mcplugintest
+Treecapitator like plugin
